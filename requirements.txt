@@ -9,3 +9,8 @@ wandb
 omegaconf
 hydra-core
 huggingface_hub
+jax
+jaxlib
+equinox
+optax
+orbax-checkpoint
